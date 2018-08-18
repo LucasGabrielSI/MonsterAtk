@@ -26,7 +26,11 @@ O jogo se passa na terra, onde uma legião alienígena decide atacar a terra em 
   + _Monstros_
   + _Naves Alienígenas_
   + _Boss_
+  
+###Controles
+  - Movimento vertical ( cima / baixo )
+  - Atirar
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
