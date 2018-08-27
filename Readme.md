@@ -36,5 +36,5 @@ O jogo se passa na terra, onde uma legião alienígena decide atacar a terra em 
   
 ### Diagrama de navegação
 <p>
-  <img src="https://github.com/13ArturBruno/MonsterAtk/blob/master/diagram.pdf">
+  <img src="https://github.com/13ArturBruno/MonsterAtk/blob/master/diagram-1.png">
 </p>
