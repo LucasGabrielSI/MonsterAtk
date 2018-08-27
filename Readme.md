@@ -14,7 +14,6 @@ O objetivo é destruir ondas de naves alienígenas com uma espaçonave humana at
 
 ### Objetivos específicos
  + _Destruir as naves inimigas_
- + _Pegar power up's no decorrer do jogo para triplicar a quantidade de balas_
  + _Não ser atingido pelo inimigos_
  + _Conseguir a maior quantidade de pontos_
 
